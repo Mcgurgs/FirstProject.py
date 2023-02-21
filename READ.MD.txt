@@ -1,4 +1,5 @@
 # This is my first Python Project
 # The program is designed to take in user input and display accordingly
-# made local repo -> remote depo 
 # Enjoy :D
+
+This repo is just a mock. I made a local repo to remote to get an understanding of git / github
